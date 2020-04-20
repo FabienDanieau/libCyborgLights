@@ -4,7 +4,7 @@ libCyborgLights
 C++ driver for the Gaming Cyborg Lights
 Tested with Linux Debian only. Should work with anything compatible with libusb.
 
-#### Installation
+#### Compilation
 
 ```bash
 git clone https://github.com/FabienDanieau/libCyborgLights.git
